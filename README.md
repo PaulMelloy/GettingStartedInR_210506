@@ -18,3 +18,29 @@ cloudstor - https://www.aarnet.edu.au/network-and-services/cloud-services/clouds
 ## Browsing packages
 R universe - https://r-universe.dev/organizations/  
 
+## This course will cover  
+1. Introduction to R and Rstudio  (~ 25 min)  
+	- Rstudio layout, finding your way around  
+	- Interacting with the console  
+	- The working directory  
+	- R environment and projects  
+	- Navigating the filesystem in R  
+
+2. R Packages (~ 15 minutes)  
+	- CRAN and R universes (https://r-universe.dev/organizations/)  
+	- functions() and arguments  
+	- Finding help/ vignettes  
+
+3. Data structures (~ 1 hour)  
+	- Reading in data  
+	- Data types / classes  
+	- vectors, matrixes, data.frames, lists and arrays.  
+
+4. Manipulating data (~ 45 mins)  
+	- Indexing  
+	- Subseting (filter and selecting)  
+	- `dplyr`  
+
+5. summarising data ~ (15 mins)  
+	 - also `dplyr`
+
