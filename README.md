@@ -9,10 +9,12 @@ This course loosely follows the episodes published by software carpentries - R f
 http://swcarpentry.github.io/r-novice-gapminder/
 
 ## Links  
-Download R - https://cloud.r-project.org/
-Download Rstudio - https://www.rstudio.com/products/rstudio/download/
+Download R - https://cloud.r-project.org/  
+Download Rstudio - https://www.rstudio.com/products/rstudio/download/  
+Ecocloud - https://app.ecocloud.org.au/  
+cloudstor - https://www.aarnet.edu.au/network-and-services/cloud-services/cloudstor
 
 
 ## Browsing packages
-R universe - https://r-universe.dev/organizations/
+R universe - https://r-universe.dev/organizations/  
 
