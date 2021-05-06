@@ -82,3 +82,18 @@ dir.create("cache")
 # write the dat data.frame object as a csv to the cache directory
 write.csv(x = dat,
           file = "cache/inflammation_clean.csv")
+
+# functions for reading in from excell
+readxl::read_xlsx()
+
+# cars dataset
+head(cars)
+# analysis of variance
+cars_a <- aov(speed ~ dist,
+              data = cars)
+summary(cars_a)
+
+# function for linear model
+cars_lm <- aov(speed ~ dist,
+              data = cars)
+summary(cars_lm)
